@@ -2,12 +2,10 @@
 
 Eu sou um estudante de Sistemas de Informação na UNIPAM em Patos de Minas, sou um programador e apaixonado por tecnologia. 
 
-![GedeonCF's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 
 ## Conquistas
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 1° Lugar no Prêmio de Empreendedorismo UNIPAM com o Florada, um aplicativo de gestão de lavoura de café desenvolvido em parceria com meus colegas de faculdade. 
 
 
 ## Entre em Contato!
