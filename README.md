@@ -2,7 +2,7 @@
 
 Eu sou um estudante de Sistemas de Informação na UNIPAM em Patos de Minas, sou um programador e apaixonado por tecnologia. 
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![GedeonCF's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## Conquistas
