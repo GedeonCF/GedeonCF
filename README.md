@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Gedeon 
 
-<!--
-**GedeonCF/GedeonCF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou um estudante de Sistemas de Informação na UNIPAM em Patos de Minas, sou um programador e apaixonado por tecnologia. 
 
-Here are some ideas to get you started:
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Conquistas
+
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+
+
+## Entre em Contato!
+
+- Meu e-mail: gedeon.custodio.f@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gedeon-cust%C3%B3dio-fagundes-452b5a2b2/
