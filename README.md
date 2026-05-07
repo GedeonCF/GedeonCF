@@ -1,9 +1,5 @@
 # Olá, eu sou o Gedeon 
 
-Eu sou um estudante de Sistemas de Informação na UNIPAM em Patos de Minas, sou um programador e apaixonado por tecnologia. 
-
-
-
 ## Entre em Contato!
 
 - Meu e-mail: gedeon.custodio.f@gmail.com
