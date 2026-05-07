@@ -8,6 +8,5 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Entre em Contato!**
-
 - Meu e-mail: gedeon.custodio.f@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gedeon-cust%C3%B3dio-fagundes-452b5a2b2/
