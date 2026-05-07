@@ -3,10 +3,6 @@
 Eu sou um estudante de Sistemas de Informação na UNIPAM em Patos de Minas, sou um programador e apaixonado por tecnologia. 
 
 
-## Conquistas
-
-- 1° Lugar no Prêmio de Empreendedorismo UNIPAM com o Florada, um aplicativo de gestão de lavoura de café desenvolvido em parceria com meus colegas de faculdade. 
-
 
 ## Entre em Contato!
 
